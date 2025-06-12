@@ -41,12 +41,7 @@ python papercoder.py --encode "SecretMessage123" --password "YourPassword" --lin
 
 ### Decoding a Message
 
-Suppose you have these lines (output from encoding):
-
-```
-XyJgV0RmT0
-WaG5kC1LwX
-```
+Suppose you use the lines from the previous step:
 
 To decode:
 
